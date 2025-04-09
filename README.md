@@ -1,2 +1,2 @@
-# peridot
+# Peridot
 Lightweight Graph Database
